@@ -38,7 +38,3 @@ function fizzChecker(value, fizzValue){
 function buzzChecker(value, buzzValue){
     if(!(value % buzzValue)) return 'Buzz';
 }
-
-//refactor modular fizzbuzz to be more testable, write tests. as we add features make sure core functionality doesn't change
-//hand in arbitrary number string pairs instead of standard 3 for Fizz, and 5 for Buzz
-//seperate tests set up SpecRunner, spec, src.
