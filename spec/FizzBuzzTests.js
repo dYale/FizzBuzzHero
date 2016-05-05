@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  describe("Clear Measure Programming Question", function() {
+  describe("FizzBuzzTestSuite", function() {
 
     describe("Traditional FizzBuzz", function() {
 
